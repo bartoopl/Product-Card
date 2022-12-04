@@ -18,7 +18,6 @@ export default function Home() {
             className="h-48 w-full object-cover md:h-full md:w-64"
             src={mypic}
             alt="Product"
-           
           />
           <div className="px-10 py-10">
             <p className="font-montserrat500 text-transform: uppercase gap-8">
